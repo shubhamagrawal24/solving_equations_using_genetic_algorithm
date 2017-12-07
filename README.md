@@ -8,7 +8,7 @@ In this project there is genetic algorithm implementation for solving equation.
 		* x^2 + y^2 = z^2 (this is diaphontine equation)
 	Diaphontine equations are those equations having integer solutions not fraction solutions
 	
-# Genetic algorthm steps:
+# Genetic algorithm steps:
 	step I:		Initialization chromosomes
 	step II:	Evaluation of chromosomes
 	step IV:	Selection of chromosomes
